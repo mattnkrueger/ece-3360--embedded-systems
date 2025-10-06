@@ -22,7 +22,7 @@ This repository contains the lab work and final project for the Embedded Systems
 - [README](labs/lab4/README.md)
 - [Lab Report](labs/lab4/lab_report.pdf)
 
-#### Lab 5: UNKNOWN
+#### Lab 5: Serial Communication
 - [README](labs/lab5/README.md)
 - [Lab Report](labs/lab5/lab_report.pdf)
 
