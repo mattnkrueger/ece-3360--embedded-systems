@@ -26,10 +26,6 @@ This repository contains the lab work and final project for the Embedded Systems
 - [README](labs/lab5/README.md)
 - [Lab Report](labs/lab5/lab_report.pdf)
 
-## Final Project
-#### TBD
-- [README](final_project/README.md)
-- [Project Report](final_project/lab_report.pdf)
 
 ## Authors  
 
