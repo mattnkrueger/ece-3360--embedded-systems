@@ -10,7 +10,7 @@ This repository contains the lab work and final project for the Embedded Systems
 <div align="left">
   <img src="tags/uiowa.svg" width="123" alt="Uiowa" />
   <img src="tags/handwritten.svg" width="171" alt="Handwritten" />
-  <img src="tags/atmel.svg" width="60" alt="AVR Assembly" />
+  <img src="tags/atmel.svg" width="111" alt="AVR Assembly" />
   <img src="tags/c.svg" width="60" alt="C" />
 </div>
 
